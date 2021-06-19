@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoIt.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="template_title_text">Note Title</string>
+    <string name="template_description_text">Description</string>
+    <string name="done_button_text">Done</string>
+    <string name="string_untitled">Untitled</string>
+    <string name="no_description_text">No Description</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="delete_button_text">Delete</string>
+</resources>
