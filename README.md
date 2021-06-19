@@ -1,17 +1,17 @@
 # DoIt
 This is a type of _TODO List_ android application, with a pleasing UI and better user experience.
 
-##### Software Used
+#### Software Used
  
 Android Studio
 
-##### Language Used
+#### Language Used
 
 1. Java
 2. XML
 
-##### Database Used
-g
+#### Database Used
+
 SQLite 
 
 
